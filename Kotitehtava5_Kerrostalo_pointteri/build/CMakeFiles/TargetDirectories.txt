@@ -1,0 +1,7 @@
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava4_Kerrostalo/build/CMakeFiles/Kotitehtava4_Kerrostalo.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava4_Kerrostalo/build/CMakeFiles/edit_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava4_Kerrostalo/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava4_Kerrostalo/build/CMakeFiles/list_install_components.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava4_Kerrostalo/build/CMakeFiles/install.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava4_Kerrostalo/build/CMakeFiles/install/local.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava4_Kerrostalo/build/CMakeFiles/install/strip.dir
